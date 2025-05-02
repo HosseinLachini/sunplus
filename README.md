@@ -34,3 +34,4 @@ sudo cp ispe /usr/bin/
 - [klipsch](firmware/klipsch/README.md)
 - [carpuride](firmware/carpuride/README.md)
 - [kenwood](firmware/kenwood/README.md)
+- [JVC](firmware/jvc/README.md)
