@@ -1,4 +1,4 @@
-![klipsch](https://support.klipsch.com/hc/theming_assets/01HZP9RA6NN5Z4BQ5VCQ1DYP90)
+![klipsch](logo.jpg)
 
 # klipsch
 This firmware is old version have Device tree! and use squashfs and overlayfs.
