@@ -32,7 +32,7 @@ sudo cp ispe /usr/bin/
 
 ## Frimware
 - [klipsch](firmware/klipsch/README.md)
-- [carpuride](firmware/carpuride/README.md)
+- [Carpuride](firmware/carpuride/README.md)
 - [kenwood](firmware/kenwood/README.md)
 - [JVC](firmware/jvc/README.md)
 - [car and driver](firmware/caranddriver/README.md)
